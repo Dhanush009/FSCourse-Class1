@@ -12,3 +12,4 @@
 12. git checkout -b "branch-name" - to create a new branch
 13. git merge <branchname> - merges any other branch contents with current branch
 14. git push -u origin master - pushes content to master branch of repo
+15. git pull
