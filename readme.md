@@ -5,8 +5,10 @@
 5. git commit -m "message(ex: inital commit")" - to commit the staged file
 6. git reset head - for unstaging all files or undoing our commit
 7. git reset <filename> - for unstaging a single file
-8. git push  - for pushing our file to remote repo
+8. git remote add origin <remote repo url> - sets up connection to remote repo
 9. git checkout branchname/commit hash(sha) - to checkout that particular commit
 10. git log - gives deatils of our commits
 11. git branch - shows all branches
 12. git checkout -b "branch-name" - to create a new branch
+13. git merge <branchname> - merges any other branch contents with current branch
+14. git push -u origin master - pushes content to master branch of repo
